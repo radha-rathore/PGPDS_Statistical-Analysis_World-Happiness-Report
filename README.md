@@ -8,6 +8,8 @@
 
 - The report also helps in pointing out the importance of qualitative development rather than quantitative. It takes into consideration what people really think about topics such as women’s rights, corruption rates, fundamental rights and more. In a way, it is one of the most important reports for a developing economy like India.
 
+- Dataset and information taken from Kaggle - https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv
+
 #### For statistical analysis:
 - I have done hypothesis testing, anova and chi-square test to undersand the relation between features, if they are significant or not.
 - By taking 2021 data as test set, I have trained an OLS model to understand the significance and strength of the predictors and used it to make prediction of happiness score for 2021.
