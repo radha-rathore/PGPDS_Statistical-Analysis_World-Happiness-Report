@@ -3,7 +3,7 @@
 #### The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country.
 
 - The dataset contains information about countries from 2008. 
-- 
+
 - While a happiness report or rank might seem trivial, it is this type of data that points to our development policies and the people’s perception of how their governments perform.
 
 - The report also helps in pointing out the importance of qualitative development rather than quantitative. It takes into consideration what people really think about topics such as women’s rights, corruption rates, fundamental rights and more. In a way, it is one of the most important reports for a developing economy like India.
